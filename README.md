@@ -9,3 +9,4 @@ The gradle plugin and the whole plugin system is **heavily** based on [Aliucord]
 
 trying 
 trying 
+trying 
