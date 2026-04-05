@@ -8,3 +8,4 @@ The gradle plugin and the whole plugin system is **heavily** based on [Aliucord]
 *Go use it, it's a great mobile discord client mod!*
 
 trying 
+trying 
